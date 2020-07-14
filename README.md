@@ -34,7 +34,8 @@ _________
 ### Instrutores 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="" title="Instrutores" src="imagens/telainstrutores.PNG" width="300px">
+  <img alt="" title="Instrutores" src="imagens/telainstrutores.PNG" width="400px">
+<br>
   <img alt="" title="Add Instrutores" src="imagens/telaaddinstrutor.PNG" width="300px">
   <img alt="" title="Edit Instrutores" src="imagens/telaeditinstrutor.PNG" width="300px">
 </p>
@@ -42,7 +43,8 @@ _________
 ### Membros 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="" title="Membros" src="imagens/telamembros.PNG" width="300px">
+  <img alt="" title="Membros" src="imagens/telamembros.PNG" width="400px">
+<br>
   <img alt="" title="Add Membros" src="imagens/telaaddmembro.PNG" width="300px">
   <img alt="" title="Edit Membros" src="imagens/telaeditmembro.PNG" width="300px">
 </p>
