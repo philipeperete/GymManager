@@ -34,16 +34,17 @@ _________
 ### Instrutores 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Instrutores" title="Instrutores" src="imagens/telainstrutores.png" width="200px">
-  <img alt="Instrutores" title="Add Instrutores" src="imagens/telaaddinstrutor.png" width="200px">
-  <img alt="Instrutores" title="Edit Instrutores" src="imagens/telaeditinstrutor.png" width="200px">
+  <img alt="" title="Instrutores" src="imagens/telainstrutores.PNG" width="300px">
+  <img alt="" title="Add Instrutores" src="imagens/telaaddinstrutor.PNG" width="300px">
+  <img alt="" title="Edit Instrutores" src="imagens/telaeditinstrutor.PNG" width="300px">
+</p>
  
 ### Membros 
- 
-  <br>
-  <img alt="Membros" title="Membros" src="imagens/telamembros.png" width="200px">
-  <img alt="Membros" title="Add Membros" src="imagens/telaaddmembro.png" width="200px">
-  <img alt="Membros" title="Edit Membros" src="imagens/telaeditmembro.png" width="200px">
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="" title="Membros" src="imagens/telamembros.PNG" width="300px">
+  <img alt="" title="Add Membros" src="imagens/telaaddmembro.PNG" width="300px">
+  <img alt="" title="Edit Membros" src="imagens/telaeditmembro.PNG" width="300px">
 </p>
 
 _________
